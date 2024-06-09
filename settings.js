@@ -10,17 +10,17 @@
 
 
 
-Project Name : 𝘈𝘴𝘩𝘪𝘳 - MD
-Creator : @darkmakerofc , @mr-ashir-x 
+Project Name : 𝘈𝘩𝘮𝘢𝘥 𝘏𝘢𝘴𝘴𝘢𝘯 - MD
+Creator : @darkmakerofc , @mr-𝘈𝘩𝘮𝘢𝘥 𝘏𝘢𝘴𝘴𝘢𝘯-x 
 
 */
 
 module.exports = {
   OWNER_NUMBER: "923138114267",
   SUDO_NUMBERS : "923017718575,923138114267",
-  OWNER_NAME: "『 ✨مھـــٓــر عـــاشـــٓــر🎗️ 』",
-  BOT_NAME : "𝘈𝘴𝘩𝘪𝘳",
-  ZUSYCO_FILE : "𝘈𝘴𝘩𝘪𝘳",
+  OWNER_NAME: "『 𝘈𝘩𝘮𝘢𝘥 𝘏𝘢𝘴𝘴𝘢𝘯 』",
+  BOT_NAME : "𝘈𝘩𝘮𝘢𝘥 𝘏𝘢𝘴𝘴𝘢𝘯",
+  ZUSYCO_FILE : "𝘈𝘩𝘮𝘢𝘥 𝘏𝘢𝘴𝘴𝘢𝘯",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
@@ -36,8 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ✨مھـــٓــر عـــاشـــٓــر🎗️
-➪03068491206🧑🏻‍💻 ]',
+  STICKER_PACK : '[ 𝘈𝘩𝘮𝘢𝘥 𝘏𝘢𝘴𝘴𝘢𝘯 ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
